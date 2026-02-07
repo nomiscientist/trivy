@@ -16,7 +16,6 @@
 *.out
 
 .idea
-.vscode
 
 # Directory Cache Files
 .DS_Store
@@ -43,3 +42,5 @@ cmd/trivy/trivy
 
 # RPM
 *.rpm
+config.bat
+node_modules
